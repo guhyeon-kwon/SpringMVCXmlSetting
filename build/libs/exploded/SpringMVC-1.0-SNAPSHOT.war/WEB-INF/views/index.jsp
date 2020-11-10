@@ -11,8 +11,7 @@
     <title>Title</title>
 </head>
 <body>
-    <h1>index.jsp</h1>
-    <h3>Hello SpringMVC</h3>
-    <img src="image/spring-logo.svg"/>
+    <a href="input_data">input_data</a>
+    <a href="read_data">read_data</a>
 </body>
 </html>
