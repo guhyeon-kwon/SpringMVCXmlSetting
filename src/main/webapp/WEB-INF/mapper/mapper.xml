@@ -12,7 +12,7 @@
 
     <select id="select_data" resultType="kr.co.springtest.beans.DataBean">
         <![CDATA[
-            select * from spring_mvc_table
+            select data1, data2, data3 from spring_mvc_table
         ]]>
     </select>
 </mapper>

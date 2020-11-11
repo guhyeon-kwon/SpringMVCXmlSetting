@@ -8,10 +8,11 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Title</title>
+    <title>기능별 샘플 리스트</title>
 </head>
 <body>
-    <a href="input_data">input_data</a>
-    <a href="read_data">read_data</a>
+    <h2>데이터 입출력 샘플</h2>
+    <a href="input_data">input_data</a><br/>
+    <a href="read_data">read_data</a><br/>
 </body>
 </html>
